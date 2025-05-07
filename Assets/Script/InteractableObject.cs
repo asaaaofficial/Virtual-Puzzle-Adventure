@@ -5,7 +5,7 @@ using UnityEngine;
 public class InteractableObject : MonoBehaviour
 {
     public bool playerInRange;
-    public string itemName;
+    public string ItemName;
     private SelectionManager selectionManager;
 
     // Corrected the type of SelectionManager to match its intended usage
@@ -16,12 +16,7 @@ public class InteractableObject : MonoBehaviour
 
     public string GetItemName()
     {
-        return itemName;
-    }
-
-    public string getItemName()
-    {
-        return itemName;
+        return ItemName;
     }
     void Update()
     {
@@ -30,7 +25,7 @@ public class InteractableObject : MonoBehaviour
         {
             if (!InventorySystem.Instance.CheckIfFull)
             {
-                InventorySystem.Instance.AddItemToInventory(itemName);
+                InventorySystem.Instance.AddItemToInventory(ItemName);
                 Destroy(gameObject);
             }
             else

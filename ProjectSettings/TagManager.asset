@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EquipSystem
+  - InventorySystem
+  - SelectionManager
+  - Start
+  - Button
+  - Slot
+  - QuickSlot
+  - Interaction_Info_UI
+  - Tree
   layers:
   - Default
   - TransparentFX
