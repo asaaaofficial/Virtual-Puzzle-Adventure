@@ -4,14 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - EquipSystem
   - InventorySystem
   - SelectionManager
   - Start
   - Button
   - Slot
-  - QuickSlot
-  - Interaction_Info_UI
   - Tree
   layers:
   - Default

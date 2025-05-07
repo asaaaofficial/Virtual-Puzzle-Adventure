@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\script\\itemslotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemslotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\assets\\script\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SelectionManager.cs",
-              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\SelectionManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SelectionManager.cs",
-              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\SelectionManager.cs",
-              "RelativeToolTip": "Assets\\Script\\SelectionManager.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDcAAAAJAAAAAAAAAA==",
+              "Title": "ItemSlotScript.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\ItemSlotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ItemSlotScript.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\ItemSlotScript.cs",
+              "RelativeToolTip": "Assets\\Script\\ItemSlotScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:47:44.967Z",
+              "WhenOpened": "2025-05-07T09:01:07.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InteractableObject.cs",
-              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\InteractableObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\InteractableObject.cs",
-              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\InteractableObject.cs",
-              "RelativeToolTip": "Assets\\Script\\InteractableObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Title": "SelectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\SelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SelectionManager.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\SelectionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SelectionManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T23:27:44.971Z"
+              "WhenOpened": "2025-05-07T03:47:44.967Z",
+              "EditorCaption": ""
             }
           ]
         }
