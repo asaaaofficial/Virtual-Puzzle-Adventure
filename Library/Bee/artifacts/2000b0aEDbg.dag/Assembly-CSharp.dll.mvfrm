@@ -1,3 +1,8 @@
+UnityConnectSession
+Unity
+Connect
+Share
+Editor
 MaterialQuality
 Utilities
 MaterialQualityUtilities
@@ -13,6 +18,28 @@ Renderer2DData
 CompositeShadowCaster2D
 ShadowCaster2D
 ShadowCasterGroup2D
+ActionBasedControllerEditor
+UnityEngine
+XR
+Interaction
+Toolkit
+XRBaseControllerEditor
+XRControllerEditor
+XRControllerRecorderEditor
+XRControllerRecordingEditor
+XRRigEditor
+PackageManagerEditorHelper
+Utilities
+InputHelpers
+
+AttachPointVelocityTracker
+UnityEngine
+XR
+Interaction
+Toolkit
+IAttachPointVelocityProvider
+AttachPointVelocityProviderExtensions
+IAttachPointVelocityTracker
 AssetModificationProcessor
 
 Sysroot

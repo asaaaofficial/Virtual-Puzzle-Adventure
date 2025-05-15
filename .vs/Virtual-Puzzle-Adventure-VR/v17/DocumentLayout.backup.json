@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFF642F3-2949-90A4-A1AD-994A7FA2D26C}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF642F3-2949-90A4-A1AD-994A7FA2D26C}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nasrun\\Downloads\\InventoryVR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\assets\\script\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +30,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SelectionManager.cs",
-              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\SelectionManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SelectionManager.cs",
-              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\SelectionManager.cs",
-              "RelativeToolTip": "Assets\\Script\\SelectionManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "ActionBasedControllerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:47:44.967Z",
+              "WhenOpened": "2025-05-09T15:26:12.547Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryVR.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Downloads\\InventoryVR.cs",
+              "RelativeDocumentMoniker": "..\\Downloads\\InventoryVR.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\Downloads\\InventoryVR.cs",
+              "RelativeToolTip": "..\\Downloads\\InventoryVR.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:24:09.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:36:27.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonScript.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\ButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ButtonScript.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\ButtonScript.cs",
+              "RelativeToolTip": "Assets\\Script\\ButtonScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T01:31:42.092Z"
             }
           ]
         }
