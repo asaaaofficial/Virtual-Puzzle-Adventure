@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFF642F3-2949-90A4-A1AD-994A7FA2D26C}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|c:\\users\\nasrun\\virtual-puzzle-adventure-vr\\assets\\script\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF642F3-2949-90A4-A1AD-994A7FA2D26C}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF642F3-2949-90A4-A1AD-994A7FA2D26C}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\scripts\\actionbasedcontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nasrun\\Downloads\\InventoryVR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\assets\\script\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F885B28A-6A3B-7F97-B4B0-EA298B45987D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,6 +34,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TerrainLit.shader",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-15T14:26:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ActionBasedControllerManager.cs",
               "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
@@ -37,12 +54,11 @@
               "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Scripts\\ActionBasedControllerManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:26:12.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:26:12.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InventoryVR.cs",
               "DocumentMoniker": "C:\\Users\\Nasrun\\Downloads\\InventoryVR.cs",
               "RelativeDocumentMoniker": "..\\Downloads\\InventoryVR.cs",
@@ -50,12 +66,11 @@
               "RelativeToolTip": "..\\Downloads\\InventoryVR.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T10:24:09.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T10:24:09.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
@@ -67,15 +82,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ButtonScript.cs",
               "DocumentMoniker": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\ButtonScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ButtonScript.cs",
               "ToolTip": "C:\\Users\\Nasrun\\Virtual-Puzzle-Adventure-VR\\Assets\\Script\\ButtonScript.cs",
               "RelativeToolTip": "Assets\\Script\\ButtonScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:31:42.092Z"
+              "WhenOpened": "2025-05-08T01:31:42.092Z",
+              "EditorCaption": ""
             }
           ]
         }
